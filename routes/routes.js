@@ -27,3 +27,4 @@ route.delete('/ajustecabecera', ajustecabecera_controller.deleteAjuste);
 route.put('/ajustecabecera', ajustecabecera_controller.putActualizarAjuste);
 
 module.exports = route;
+ 
